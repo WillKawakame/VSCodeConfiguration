@@ -1,0 +1,8 @@
+Add this to make indent after "if (condition)" without "{" inside -> C:\Program Files\Microsoft VS Code\resources\app\extensions\ChoosenLanguage
+
+{
+  "beforeText": "^\\s*if\\s*\\(.*\\)\\s*$",
+  "action": {
+    "indent": "indent"
+  }
+}
