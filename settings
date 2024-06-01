@@ -1,0 +1,38 @@
+{
+    "workbench.colorTheme": "Dracula Soft",
+    "[python]": {
+        "editor.formatOnType": true
+    },
+    "editor.mouseWheelZoom": true,
+    "editor.rulers": [
+        80,
+        120
+    ],
+    "editor.inlineSuggest.enabled": false,
+    "editor.autoClosingOvertype": "never",
+    "symbols.hidesExplorerArrows": false,
+    "editor.fontFamily": "JetBrains Mono",
+    "editor.fontSize": 14,
+    "editor.lineHeight": 1.8,
+    "workbench.startupEditor": "newUntitledFile",
+    "editor.renderLineHighlight": "gutter",
+    "workbench.editor.labelFormat": "short",
+    "explorer.compactFolders": false,
+    "editor.semanticHighlighting.enabled": false,
+    "breadcrumbs.enabled": false,
+    "workbench.activityBar.visible": false,
+    "editor.scrollbar.horizontal": "hidden",
+    "editor.scrollbar.vertical": "hidden",
+    "apc.electron": {
+        "titleBarStyle": "hiddenInset"
+    },
+    "workbench.layoutControl.enabled": false,
+    "window.commandCenter": false,
+    "window.titleBarStyle": "custom",
+    "editor.codeLens": false,
+    "diffEditor.codeLens": false,
+    "workbench.editor.enablePreview": false,
+    "editor.formatOnType": false,
+    "workbench.iconTheme": "symbols",
+    
+}
