@@ -1,0 +1,44 @@
+{
+    "workbench.colorTheme": "Visual Studio 2019 Dark",
+    "[python]": {
+        "editor.formatOnType": true
+    },
+    "editor.mouseWheelZoom": true,
+    "editor.rulers": [
+        80,
+        120
+    ],
+    "editor.inlineSuggest.enabled": false,
+    "editor.autoClosingOvertype": "never",
+    "symbols.hidesExplorerArrows": false,
+    "editor.fontFamily": "JetBrains Mono",
+    "editor.fontSize": 14,
+    "editor.lineHeight": 1.8,
+    "workbench.startupEditor": "newUntitledFile",
+    "editor.renderLineHighlight": "gutter",
+    "workbench.editor.labelFormat": "short",
+    "explorer.compactFolders": false,
+    "editor.semanticHighlighting.enabled": false,
+    "breadcrumbs.enabled": false,
+    "editor.scrollbar.horizontal": "hidden",
+    "editor.scrollbar.vertical": "hidden",
+    "apc.electron": {
+        "titleBarStyle": "hiddenInset"
+    },
+    "workbench.layoutControl.enabled": false,
+    "window.commandCenter": false,
+    "window.titleBarStyle": "custom",
+    "editor.codeLens": false,
+    "diffEditor.codeLens": false,
+    "workbench.editor.enablePreview": false,
+    "editor.formatOnType": true,
+    "workbench.iconTheme": "symbols",
+    "workbench.activityBar.location": "hidden",
+    "[csharp]": {
+        "editor.formatOnType": true,
+        "editor.formatOnSave": false,
+        "editor.defaultFormatter": "ms-dotnettools.csharp",
+        "editor.formatOnPaste": true
+    },
+    
+}
